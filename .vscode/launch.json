@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EvenNumber",
+            "request": "launch",
+            "mainClass": "EvenNumber",
+            "projectName": "DS_JAVA_fa1bc983"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
